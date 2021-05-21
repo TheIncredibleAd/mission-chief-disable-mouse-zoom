@@ -1,5 +1,6 @@
 # mission-chief-disable-mouse-zoom
 A simple script to disable mouse wheel zooming on the map in Missionchief.<br>
+Currently only works on UK and US<br>
 Please let me know if there are any issues.<br><br>
 <strong>This Script collects no user data</strong><br><br>
 <strong>How to install</strong><br>
