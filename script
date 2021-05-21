@@ -1,0 +1,12 @@
+// ==UserScript==
+// @name         Disable Mouse Wheel Zoom on Mission Chief
+// @version      0.1
+// @description  As the title suggests, disables the Zoom when you scroll your mouse wheel over the map on Mission Chief
+// @author       TheIncredibleAd
+// @match        //police.missionchief.co.uk/
+// @include      *://police.missionchief.co.uk/*
+// @include      *://www.missionchief.com/*
+// @grant        none
+// ==/UserScript==
+
+map.scrollWheelZoom.disable();
